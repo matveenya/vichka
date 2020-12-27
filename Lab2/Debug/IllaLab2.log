@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Test\source\repos\IllaLab2\MyForm.h(418,9): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Test\source\repos\IllaLab2\MyForm.h(442,14): warning C4101: B: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  IllaLab2.vcxproj -> C:\Users\Test\source\repos\Prject_clr_2\Debug\IllaLab2.exe

@@ -1,0 +1,6 @@
+D:\Programming\ROMA\вычка\illaLab1\Debug\illaLab1.vcxprojAssemblyReference.cache
+D:\Programming\ROMA\вычка\illaLab1\Debug\illaLab1.MyForm.resources
+D:\Programming\ROMA\вычка\illaLab1\Debug\illaLab1.MyForm1.resources
+D:\Programming\ROMA\вычка\illaLab1\Debug\illaLab1.vcxproj.GenerateResource.cache
+D:\Programming\ROMA\вычка\illaLab1\Debug\illaLab1.exe
+D:\Programming\ROMA\вычка\illaLab1\Debug\illaLab1.pdb
