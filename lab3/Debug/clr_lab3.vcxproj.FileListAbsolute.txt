@@ -1,0 +1,5 @@
+D:\Programming\ROMA\вычка\clr_lab3\Debug\clr_lab3.vcxprojAssemblyReference.cache
+D:\Programming\ROMA\вычка\clr_lab3\Debug\clrlab3.MyForm.resources
+D:\Programming\ROMA\вычка\clr_lab3\Debug\clr_lab3.vcxproj.GenerateResource.cache
+D:\Programming\ROMA\вычка\clr_lab3\Debug\clr_lab3.exe
+D:\Programming\ROMA\вычка\clr_lab3\Debug\clr_lab3.pdb

@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Test\source\repos\clr_lab3\MyForm.h(377,92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3\MyForm.h(377,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3\MyForm.h(379,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3\MyForm.h(303,38): warning C4101: ymax: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  clr_lab3.vcxproj -> C:\Users\Test\source\repos\Prject_clr_2\Debug\clr_lab3.exe
