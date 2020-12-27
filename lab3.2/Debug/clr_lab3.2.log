@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(358,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(360,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(439,90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(439,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(449,90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(449,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(459,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(459,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(461,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(465,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(419,18): warning C4101: j2: неиспользованная локальная переменная
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(419,10): warning C4101: j1: неиспользованная локальная переменная
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(372,33): warning C4101: p: неиспользованная локальная переменная
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(372,36): warning C4101: q: неиспользованная локальная переменная
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(419,14): warning C4101: i2: неиспользованная локальная переменная
+C:\Users\Test\source\repos\clr_lab3.2\MyForm.h(419,6): warning C4101: i1: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  clr_lab3.2.vcxproj -> C:\Users\Test\source\repos\Prject_clr_2\Debug\clr_lab3.2.exe
